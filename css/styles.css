@@ -65,6 +65,10 @@ main {
   object-fit: cover;
 }
 
+.blog-card .content {
+  margin-block: var(--space--200);
+}
+
 .blog-card .category {
   background-color: var(--yellow);
 
