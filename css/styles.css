@@ -82,3 +82,7 @@ main {
   line-height: 150%;
   letter-spacing: 0;
 }
+
+.blog-card .content h2.title {
+  margin-block: var(--space-150);
+}
