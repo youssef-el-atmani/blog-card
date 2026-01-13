@@ -67,7 +67,7 @@ main {
 
 .blog-card .category {
   background-color: var(--yellow);
-  font-family: "FigtreeExtraBold";
+  font-family: "FigtreeExtraBold", sans-serif;
   font-size: 14px;
   line-height: 150%;
   letter-spacing: 0;
