@@ -41,4 +41,5 @@ main {
 /* Blog Card */
 .blog-card {
   max-width: 384px;
+  background-color: var(--white);
 }
