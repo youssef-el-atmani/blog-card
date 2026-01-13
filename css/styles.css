@@ -112,3 +112,8 @@ main {
   line-height: 150%;
   letter-spacing: 0;
 }
+
+/* The Blog Author */
+.blog-card .author {
+  display: flex;
+}
