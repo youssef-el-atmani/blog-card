@@ -21,7 +21,14 @@ html {
   --space-50: 4px;
   --space-100: 8px;
   --space-150: 12px;
+
   --space--200: 24px;
+}
+
+/* Fonts */
+@font-face {
+  font-family: "FigtreeExtraBold";
+  src: url("./../assets/fonts/static/Figtree-ExtraBold.ttf");
 }
 
 /* ========= */
@@ -52,4 +59,14 @@ main {
   border-radius: 10px;
   max-width: 100%;
   object-fit: cover;
+}
+
+.blog-card .category {
+  background-color: var(--yellow);
+  font-family: "FigtreeExtraBold";
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0;
+  padding: var(--space-50) var(--space-150);
+  border-radius: 4px;
 }
