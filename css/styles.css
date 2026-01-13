@@ -59,12 +59,14 @@ main {
   padding: var(--space--200);
 }
 
+/* The Blog Image */
 .blog-card .blog-img {
   border-radius: 10px;
   max-width: 100%;
   object-fit: cover;
 }
 
+/* The Blog Content */
 .blog-card .content {
   margin-block: var(--space--200);
 }
