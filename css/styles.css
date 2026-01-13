@@ -47,3 +47,7 @@ main {
   box-shadow: 8px 8px 0 0 #000000;
   padding: var(--space--200);
 }
+
+.blog-card .blog-img {
+  border-radius: 10px;
+}
