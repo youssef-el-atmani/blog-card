@@ -42,4 +42,8 @@ main {
 .blog-card {
   max-width: 384px;
   background-color: var(--white);
+  border: 1px solid var(--gray-950);
+  border-radius: 20px;
+  box-shadow: 8px 8px 0 0 #000000;
+  padding: var(--space--200);
 }
