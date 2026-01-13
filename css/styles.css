@@ -104,6 +104,11 @@ main {
   letter-spacing: 0;
 }
 
+.blog-card .content h2.title:hover {
+  cursor: pointer;
+  color: var(--yellow);
+}
+
 .blog-card .content h2.title:focus {
   color: var(--yellow);
 }
