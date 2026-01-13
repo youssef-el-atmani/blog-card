@@ -69,7 +69,7 @@ main {
   margin-block: var(--space--200);
 }
 
-.blog-card .category {
+.blog-card .content .category {
   background-color: var(--yellow);
 
   font-family: "FigtreeExtraBold", sans-serif;
