@@ -16,4 +16,10 @@ html {
   --gray-950: #111111;
   --gray-500: #6b6b6b;
   --white: #ffffff;
+
+  /* spacing */
+  --space-50: 4px;
+  --space-100: 8px;
+  --space-150: 12px;
+  --space--200: 24px;
 }
