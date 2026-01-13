@@ -30,6 +30,10 @@ html {
   font-family: "FigtreeExtraBold";
   src: url("./../assets/fonts/static/Figtree-ExtraBold.ttf");
 }
+@font-face {
+  font-family: "FigtreeMedium";
+  src: url("./../assets/fonts/static/Figtree-Medium.ttf");
+}
 
 /* ========= */
 body {
@@ -69,4 +73,12 @@ main {
   letter-spacing: 0;
   padding: var(--space-50) var(--space-150);
   border-radius: 4px;
+}
+
+.blog-card .content .publish-date {
+  margin-block: var(--space-150);
+  font-family: "FigtreeMedium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0;
 }
