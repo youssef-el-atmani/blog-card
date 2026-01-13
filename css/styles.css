@@ -104,6 +104,10 @@ main {
   letter-spacing: 0;
 }
 
+.blog-card .content h2.title:focus {
+  color: var(--yellow);
+}
+
 .blog-card .content p.description {
   margin: 0;
 
