@@ -37,3 +37,8 @@ main {
   display: flex;
   align-items: center;
 }
+
+/* Blog Card */
+.blog-card {
+  max-width: 384px;
+}
