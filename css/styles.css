@@ -127,3 +127,8 @@ main {
   line-height: 150%;
   letter-spacing: 0;
 }
+
+/* footer */
+footer {
+  margin-bottom: var(--space-150);
+}
